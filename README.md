@@ -29,7 +29,7 @@ A description of the key business decisions that need to be made.
 
 Build a linear regression model, then use it to predict sales for the 250 customers. We encourage you to use Alteryx to build the best linear model with your data.
 
-<h6> Note: For students using software other than Alteryx, if you decide to use Customer Segment as one of your predictor variables, please set the base case to Credit Card Only.</h6>
+<h6> Note: </h6> For students using software other than Alteryx, if you decide to use Customer Segment as one of your predictor variables, please set the base case to Credit Card Only.
 
 However, feel free to use any tool you’d like. You should create your linear regression model and come up with a linear regression equation.
 
