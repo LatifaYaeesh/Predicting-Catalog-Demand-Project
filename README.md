@@ -25,15 +25,18 @@ Write a short report with your recommendations outlining your reasons why the co
 A description of the key business decisions that need to be made.
 <h6> Note: </h6> Clean data is provided for this project, so you can skip the data preparation step of the Problem Solving Framework.
 
-Step 2: Analysis, Modeling, and Validation
+<h2> Step 2: Analysis, Modeling, and Validation </h2>
+
 Build a linear regression model, then use it to predict sales for the 250 customers. We encourage you to use Alteryx to build the best linear model with your data.
 
-Note: For students using software other than Alteryx, if you decide to use Customer Segment as one of your predictor variables, please set the base case to Credit Card Only.
+<h6> Note: For students using software other than Alteryx, if you decide to use Customer Segment as one of your predictor variables, please set the base case to Credit Card Only.</h6>
 
 However, feel free to use any tool you’d like. You should create your linear regression model and come up with a linear regression equation.
 
 Once you have your linear regression equation, you should use your linear regression equation to predict sales for the individual people in your mailing list.
 
-Step 3: Writeup
+<h2> Step 3: Writeup</h2>
+
 Once you have your predicted or expected profit, write a brief report with your recommendation to whether the company should send the catalog or not.
-Hint: We want to calculate the expected revenue from these 250 people in order to get expected profit. This means we need to multiply the probability that a person will buy our catalog as well. For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products. At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135.
+<h6> Hint:</h6>
+We want to calculate the expected revenue from these 250 people in order to get expected profit. This means we need to multiply the probability that a person will buy our catalog as well. For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products. At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135.
